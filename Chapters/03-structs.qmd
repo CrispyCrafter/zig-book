@@ -851,7 +851,7 @@ In other words, you should annotate `self` as `self: *x`, instead of annotating 
 as `self: x`.
 
 If we create a new method inside the `Vec3` object that, for example, expands the
-vector by multiplying it's coordinates by a factor o two, then, we need to follow
+vector by multiplying it's coordinates by a factor of two, then, we need to follow
 this rule specified in the previous paragraph. The code example below demonstrates
 this idea:
 
